@@ -49,10 +49,10 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
-  - {permalink: "/resumen", text: "Resumen"}
+  - {permalink: "/resumen", text: "Registro"}
 
 rightNavigationButtons:
-  - {permalink: "/resumen", text: "Resumen"}
+  - {permalink: "/resumen", text: "Registro"}
 
 
 # Hero Block

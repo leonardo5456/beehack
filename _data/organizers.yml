@@ -10,4 +10,3 @@
   group: "Aliados"
   elements:
     - {name: "GitHub Education", description: "GitHub Education - teach and learn better, together", link: "https://education.github.com/", imageUrl: "github.png", width: "160px"}
-    - {name: "Aska México", description: "Aska México - sistema emprendedor", link: "https://askha.org.mx/", imageUrl: "askha.png", width: "130px"}
