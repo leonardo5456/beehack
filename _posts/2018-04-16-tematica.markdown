@@ -1,28 +1,26 @@
 ---
 layout: post
-title:  " Conciudadania "
-date:   2019-04-16 08:00:00
+title:  "Temática: Seguridad"
+date:   2018-04-16 08:00:00
 image:  pipila.png
 permalink: /tematica/
 isStaticPost: false
 ---
 
 <center>
-<iframe width="90%" height="400" src=" " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="90%" height="400" src="https://www.youtube.com/embed/7_0uknBC3lw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 
 La edición 2018 de GuanaHacks tiene como temática principal "seguridad", en la cuál te puedes enfocar en cualquiera de los siguientes ejes.
 
 ##### Ejes:
 
-Proximamente
+1. Seguridad Pública 👮‍
 
-1. 👮‍
+2. Seguridad Ante desastres 🌪
 
-2. 🌪
+3. Seguridad Estudiantil 👨‍🎓
 
-3. 👨‍🎓
+4. Seguridad Turística 🏖
 
-4.  🏖
-
-5.  🏠
+5. Seguridad del Hogar 🏠

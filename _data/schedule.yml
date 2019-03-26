@@ -1,6 +1,6 @@
 -
   date: "18-05-2018"
-  dateReadable: "Jueves 16 de Mayo"
+  dateReadable: "Viernes 18 de Mayo"
   tracks:
     - {title: "Actividad", color: "#e91e63"}
   timeslots:
@@ -46,7 +46,7 @@
     }
 -
   date: "19-05-2018"
-  dateReadable: "Viernes 17 de Mayo"
+  dateReadable: "Sábado 19 de Mayo"
   tracks:
     - {title: "Actividad", color: "#e91e63"}
   timeslots:
@@ -102,7 +102,7 @@
     }
 -
   date: "20-05-2018"
-  dateReadable: "Sabado 18 de Mayo"
+  dateReadable: "Domingo 19 de Mayo"
   tracks:
     - {title: "Actividad", color: "#e91e63"}
   timeslots:

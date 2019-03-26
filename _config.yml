@@ -10,12 +10,12 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "BeeHack 2019"
-email: "mxfuturelab@gmail.com"
-description: "BeeHack - Hackatón estudiantil de la Universidad de Guanajuato."
+title: "GuanaHacks 2018"
+email: "kaizen.ugto@gmail.com"
+description: "GuanaHacks - Hackatón estudiantil de la Universidad de Guanajuato."
 baseurl: ""
 url: "https://futurelabmx.github.io"
-#permalink: "/blog/:title"
+permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
 # googleAnalyticsSiteUrl: "gdg-x.github.io"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "www.facebook.com/f.lab.mx"
 
 # Head
-metaKeywords: "event, mlh, devfest, hackathon, programming, guanajuato, hack, BeeHack, ugto, future lab, kaizen ug"
+metaKeywords: "event, mlh, devfest, hackathon, programming, guanajuato, hack, guanahacks, ugto, future lab, kaizen ug"
 twitterAccount: "@FerroRodolfo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -43,41 +43,42 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
- #- {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/programa/", text: "Programa"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
-#bottomNavigationLinks:
-#  - {permalink: "/resumen", text: "Resumen"}
+bottomNavigationLinks:
+  - {permalink: "/resumen", text: "Resumen"}
 
-#  - {permalink: "/resumen", text: "Resumen"}
+rightNavigationButtons:
+  - {permalink: "/resumen", text: "Resumen"}
 
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "BeeHack. Hecho para <typeout>"
-eventDate: "16-18 Mayo, 2019"
+heroTitle: "GuanaHacks. Hecho para <typeout>"
+eventDate: "18-20 Mayo, 2018"
 typeoutTextValues: '"", "creadores.", "hackers.", "líderes.", "ti."'
 typeoutFallback: ""
 heroButtons:
- #- {permalink: "/resumen", text: "Resumen"}
+ - {permalink: "/resumen", text: "Resumen"}
 
 
 # About Block
-aboutTitle: "Acerca de BeeHack"
+aboutTitle: "Acerca de GuanaHacks"
 aboutBlock:
- #- {title: "Conferencias", image: "conference.jpg", text: "Líderes de la industria local compartirán su experiencia. Las nuevas tecnologías y su utilización para soluciones ingeniosas." }
- #- {title: "Talleres", image: "workshop.jpg", text: "Aprende a desarrollar tu idea, desde el prototipo a un modelo de negocios. Impartidos por expertos en el tema, de diseño, negocios y técnicos." }
+ - {title: "Conferencias", image: "conference.jpg", text: "Líderes de la industria local compartirán su experiencia. Las nuevas tecnologías y su utilización para soluciones ingeniosas." }
+ - {title: "Talleres", image: "workshop.jpg", text: "Aprende a desarrollar tu idea, desde el prototipo a un modelo de negocios. Impartidos por expertos en el tema, de diseño, negocios y técnicos." }
 
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- #- {count: "250", specialCharacter: "+", info: "Estudiantes", detail: "¡Del estado y de la república!"}
- #- {count: "55", specialCharacter: "+", info: "Horas", detail: "¡De actividades y desarollo!"}
- #- {count: "6", specialCharacter: "+", info: "Talleres y conferencias", detail: "¡De diversos temas y áreas!"}
- #- {count: "10", specialCharacter: "+", info: "Mentores", detail: "¡Experto en área!"}
+ - {count: "250", specialCharacter: "+", info: "Estudiantes", detail: "¡Del estado y de la república!"}
+ - {count: "55", specialCharacter: "+", info: "Horas", detail: "¡De actividades y desarollo!"}
+ - {count: "6", specialCharacter: "+", info: "Talleres y conferencias", detail: "¡De diversos temas y áreas!"}
+ - {count: "10", specialCharacter: "+", info: "Mentores", detail: "¡Experto en área!"}
 
 
 # Latest News Block
@@ -85,21 +86,24 @@ latestNewsTitle: "Ultimas noticias"
 
 
 # Rockstar Speakers Block
-
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Invitados Especiales"
+rockstarSpeakersButtonText: "Ver todos los ponentes"
 
 
 # Location Block
 locationBlockTitle: "Ubicación"
-eventLocationName: "Patio del Colegio de la Santísima Trinidad(Patio Jesuita), Campus Guanajuato, Universidad de Guanajuato."
+eventLocationName: "Aulas Magnas, Campus Guanajuato, Universidad de Guanajuato."
 eventLocationLink: "http://www.ugto.mx/campusgto/"
-eventStreetAddress: "Pedro Lascurain de Retana 5, Zona Centro"
+eventStreetAddress: "El Establo, Marfil."
 eventAddressLocality: "Guanajuato."
 eventAddressLocalityRegion: "Gto."
 eventPostalCode: "36000"
 eventAddressCountry: "México"
-eventStartTime: "2019-05-16T12:00"
+eventStartTime: "2018-05-18T12:00"
 eventDoorTime: "10:00"
-eventEndTime: "2019-05-18T14:00"
+eventEndTime: "2018-05-20T14:00"
 eventPlaceCoordinates: "21.012597, -101.275503"
 mapCenterCoordinates: "21.012597, -101.275503"
 mapMobileCenterCoordinates: "21.012597, -101.275503"
@@ -117,8 +121,8 @@ mapMobileCenterCoordinates: "21.012597, -101.275503"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "bee hack!!"
-twitterHashTag: "BeeHack"
+tweetsFeedTitle: "Wanna hack?"
+twitterHashTag: "GuanaHacks"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 
@@ -135,7 +139,7 @@ partnersC4sponsorsButton: "Conviértete en sponsor"
 
 # Footer
 socialLinks:
- #- {link: "https://twitter.com/search?q=%23GuanaHacks", icon: "twitter"}
+ - {link: "https://twitter.com/search?q=%23GuanaHacks", icon: "twitter"}
  - {link: "https://facebook.com/f.lab.mx", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
@@ -143,21 +147,21 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://www.ugto.mx/", text: "Universidad de Guanajuato"}
-   - {link: "https://www.facebook.com/BeeAHack/", text: "BeeHack"}
+   - {link: "https://www.facebook.com/GuanaHacks/", text: "GuanaHacks"}
    - {link: "http://www.facebook.com/f.lab.mx/", text: "Future Lab"}
    - {link: "https://www.facebook.com/KaizenUG/", text: "Kaizen UG"}
  -
   title: "Contacto"
   links:
-   - {link: "mailto:mxfuturelab@gmail.com", text: "Future Lab"}
+   - {link: "mailto:guanahacks@gmail.com", text: "GuanaHacks"}
    - {link: "mailto:r.mirontorres@ugto.mx", text: "Future Lab"}
    - {link: "mailto:kaizen.ugto@gmail.com", text: "Kaizen UG"}
  -
   title: "FAQ"
   links:
-   - {link: "www.ugto.mx/beehack.com/programa/", text: "Programa del evento"}
-   - {link: "www.ugto.mx/beehack.com/conducta/", text: "Código de Conducta"}
-   - {link: "www.ugto.mx/beehack.com/recomendaciones/", text: "Consideraciones y recomendaciones"}
+   - {link: "https://guanahacks.com/programa/", text: "Programa del evento"}
+   - {link: "https://guanahacks.com/conducta/", text: "Código de Conducta"}
+   - {link: "https://guanahacks.com/recomendaciones/", text: "Consideraciones y recomendaciones"}
 
 # Blog
 blogTitle: "Últimas noticias"
@@ -169,22 +173,22 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Acerca de nosotros"
-aboutUs: "Entusiastas por el desarrollo de los jóvenes, el emprendimiento y la innovación, el quipo organizador de BeeHacks 2019
+aboutUs: "Entusiastas por el desarrollo de los jóvenes, el emprendimiento y la innovación, el quipo organizador de GuanaHacks 2018
 se conforma por estudiantes de la Universidad de Guanajuato. Representado a 2 grupos organizados de la misma: Future Lab y Kaizen UG."
 
 # Hackathon
-hackathonTitle: "BeeHack"
+hackathonTitle: "GuanaHacks"
 enableHackathon: true
 
 # Hackathon About Block
 aboutHackathonTitle: "Conoce las temáticas"
 hackathonRows:
- #- {title: "ODS ", image: "safety.png", details: "
-# Seguridad Pública 👮 \n
- #Seguridad Ante desastres 🌪 \n
- #Seguridad Estudiantil 👨 \n
- #Seguridad Turística 🏖 \n
- #Seguridad del Hogar 🏠"}
+ - {title: "Seguridad ", image: "safety.png", details: "
+ Seguridad Pública 👮 \n
+ Seguridad Ante desastres 🌪 \n
+ Seguridad Estudiantil 👨 \n
+ Seguridad Turística 🏖 \n
+ Seguridad del Hogar 🏠"}
 
 # Hackathon Judges Block
 judgesImage: "statistic.png"
@@ -200,7 +204,7 @@ prizes:
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Ubicación"
 hackathonLocationName: "GuanaHacks"
-hackathonLocationLink: "https://www.google.com/maps/place/Edificio+Central+de+la+Universidad+de+Guanajuato/@21.0173407,-101.2557567,17z/data=!3m1!4b1!4m5!3m4!1s0x842b74080dba9737:0x606eac256822d6f2!8m2!3d21.0173357!4d-101.253568"
+hackathonLocationLink: "http://guanahacks.com"
 hackathonStreetAddress: "División de Ciencias Económico Administrativas"
 hackathonAddressLocality: "Guanajuato"
 hackathonAddressLocalityRegion: "Guanajuato"
