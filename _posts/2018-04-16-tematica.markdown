@@ -1,0 +1,28 @@
+---
+layout: post
+title:  " Conciudadania "
+date:   2019-04-16 08:00:00
+image:  pipila.png
+permalink: /tematica/
+isStaticPost: false
+---
+
+<center>
+<iframe width="90%" height="400" src=" " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</center>
+
+La edición 2018 de GuanaHacks tiene como temática principal "seguridad", en la cuál te puedes enfocar en cualquiera de los siguientes ejes.
+
+##### Ejes:
+
+Proximamente
+
+1. 👮‍
+
+2. 🌪
+
+3. 👨‍🎓
+
+4.  🏖
+
+5.  🏠

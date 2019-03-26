@@ -1,0 +1,247 @@
+-
+  id: 0
+  name: "Ricardo"
+  surname: "Mirón"
+  title: "Director - Future Lab"
+  thumbnailUrl: RicardoMiron2.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/richard016"}
+    - {name: "github", link: "https://github.com/ricardomiron"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ricardomiron/"}
+-
+  id: 1
+  name: "Rodolfo"
+  surname: "Ferro"
+  title: "Coord. de Tecnología - Future Lab"
+  thumbnailUrl: RodolfoFerro.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/FerroRodolfo"}
+    - {name: "github", link: "https://github.com/RodolfoFerro"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rodolfoferro/"}
+-
+  id: 2
+  name: "Eduardo"
+  surname: "Padrón"
+  title: "Coord Gral - Future Lab"
+  thumbnailUrl: EduardoPadron.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: " "}
+  social:
+    - {name: "facebook", link: "www.facebook.com/f.lab.mx"}
+-
+  id: 3
+  name: "Francisco"
+  surname: "López"
+  title: "Coord. de Web - Future Lab"
+  thumbnailUrl: MiguelTorres.jpg
+  team: true
+  social:
+    - {name: "site", link: "http://migueltorres.me"}
+    - {name: "github", link: "https://github.com/mickeytgl"}
+    - {name: "twitter", link: "https://twitter.com/mickeytgl"}
+-
+  id: 4
+  name: "Isabel"
+  surname: "Arroyo"
+  title: "Presidenta - Kaizen UG"
+  thumbnailUrl: IsabelAroyo.jpg
+  subTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/pg/KaizenUG/"}
+-
+#  id: 5
+#  name: "Misraim"
+#  surname: "Macías"
+#  title: "Director General - León Joven"
+#  thumbnailUrl: MisraimMacias.jpg
+#  mentor: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/misraimm"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/misraimm/"}
+-
+  id: 6
+  name: "Evandro"
+  surname: "Patrón"
+  title: "Coord. de Difusión "
+  thumbnailUrl: EvandroPatron.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/EvandroPat"}
+    - {name: "site", link: "https://www.linkedin.com/in/evandropatron/"}
+-
+  id: 7
+  name: "Victor"
+  surname: "Guerrero"
+  title: "Vicepresidente - Kaizen UG"
+  thumbnailUrl: VictorGuerrero.jpg
+  subTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/pg/KaizenUG/"}
+    - {name: "twitter", link: "https://twitter.com/VicDeKaizen"}
+-
+  id: 8
+  name: "Raymundo"
+  surname: "Díaz"
+  title: "Vicepresidente - Kaizen UG"
+  thumbnailUrl: RaymundoDiaz.jpg
+  subTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/pg/KaizenUG/"}
+-
+#  id: 9
+#  name: "Rodrigo"
+#  surname: "Medina"
+#  title: "Dev - Mariachi IO & Docker Ambassador"
+#  thumbnailUrl: RodrigoMedina.jpg
+#  mentor: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-medina-neri-01537b105/"}
+-
+#  id: 10
+#  name: "Fernanda"
+#  surname: "Ochoa"
+#  title: "GitHub Campus Expert"
+
+
+
+#  thumbnailUrl: FernandaOchoa.jpg
+#  mentor: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/imonsh"}
+#    - {name: "github", link: "https://github.com/FernandaOchoa"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/fernandaochoa8/"}
+#    - {name: "facebook", link: "https://www.facebook.com/GDGLeon/"}
+-
+#  id: 11
+#  name: "Anahí"
+#  surname: "Torres"
+#  title: "Coord. de carrera - UGAC & UTL."
+#  thumbnailUrl: AnahiTorres.jpg
+#  mentor: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/anahitinocot"}
+-
+#  id: 12
+#  name: "Nancy"
+#  surname: "Salazar"
+#  title: "Co-Founder - Iconmunity"
+#  thumbnailUrl: NancySalazar.jpg
+#  mentor: true
+#    - {name: "twitter", link: "https://twitter.com/NancyNSalazar"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/nancysalazar/"}
+-
+#  id: 13
+#  name: "Hugo"
+#  surname: "Hernandez"
+#  title: "Reclutador independiente de TI"
+#  thumbnailUrl: HugoHernandez.jpg
+#  mentor: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/DonChambitas"}
+#    - {name: "site", link: "https://www.instagram.com/donchambitas/"}
+-
+  #id: 14
+#  name: "Jaasiel"
+#  surname: "Sánchez"
+#  title: "Co-Founder - SIPP"
+#  thumbnailUrl: JaasielSanchez.jpg
+#  mentor: true
+#  social:
+#    - {name: "facebook", link: "https://www.facebook.com/SIPPCon/"}
+-
+#  id: 15
+#  name: "Emmanuel"
+#  surname: "Zavala"
+#  title: "Co-Founder - SIPP"
+#  thumbnailUrl: EmmanuelZavala.jpg
+#  mentor: true
+#  social:
+#    - {name: "facebook", link: "https://www.facebook.com/SIPPCon/"}
+-
+#  id: 16
+#  name: "Juan Caros"
+#  surname: "Ruiz"
+#  title: "Software Engineer - MagmaLabs"
+#  thumbnailUrl: JuanRuiz.jpg
+#  mentor: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/juancrg90/"}
+-
+#  id: 17
+#  name: "Juan Pablo"
+#  surname: "Flores"
+#  title: "GitHub Campus Rep"
+#  thumbnailUrl: JuanFlores.jpg
+#  mentor: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/juancrg90/"}
+-
+#  id: 18
+#  name: "Lupita"
+#  surname: "Vallejo"
+#  title: "Miembro - Iconmunity"
+#  thumbnailUrl: LupitaVallejo.jpg
+#  mentor: true
+#  social:
+#    - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
+-
+#  id: 19
+#  name: "Daniel"
+#  surname: "Lira"
+#  title: "Miembro - Iconmunity"
+#  thumbnailUrl: DanielLira.jpg
+#  mentor: true
+#  social:
+#    - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
+-
+#  id: 20
+#  name: "Melisa"
+#  surname: "Alvarado"
+#  title: "Miembro - Iconmunity"
+#  thumbnailUrl: MelisaAlvarado.jpg
+#  mentor: true
+#  social:
+#    - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
+-
+#  id: 21
+#  name: "Edgar Marco"
+#  surname: "Galván"
+#  title: "GDG Monterrey"
+#  thumbnailUrl: MarcoGalvan.jpg
+#  mentor: true
+#  social:
+#    - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
+-
+#  id: 22
+#  name: "Fernando"
+#  surname: "Gallardo"
+#  title: "CoFounder TomatoValley"
+#  thumbnailUrl: FernandoGallardo.jpg
+#  mentor: true
+#  social:
+#    - {name: "facebook", link: "https://www.facebook.com/Iconmunity/"}
+-
+#  id: 23
+#  name: "Michel"
+#  surname: "Corona"
+#  title: "CoFounder Women.inData;"
+#  thumbnailUrl: MichelCorona.jpg
+#  mentor: true
+#  social:
+#  - {name: "facebook", link: "https://www.facebook.com/WomeninDataMX/"}
+-
+#  id: 24
+#  name: "Armando"
+#  surname: "Are"
+#  title: "CoFounder Stickers GAME"
+#  thumbnailUrl: ArmandoAre.jpg
+#  mentor: true
+#  social:
+#  - {name: "facebook", link: "https://www.facebook.com/StickersGAME/"}
