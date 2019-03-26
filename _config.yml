@@ -10,11 +10,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GuanaHacks 2018"
-email: "kaizen.ugto@gmail.com"
-description: "GuanaHacks - Hackatón estudiantil de la Universidad de Guanajuato."
+title: "BeeHack 2019"
+email: "mxfuturelab@gmail.com"
+description: "BeeHack - Hackatón estudiantil de la Universidad de Guanajuato."
 baseurl: ""
-url: "https://futurelabmx.github.io"
+url: "https://futurelab.mx/"
 permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
 # googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -24,9 +24,9 @@ permalink: "/blog/:title"
 organizerName: "Future Lab"
 organizerAlternateName: "Future Lab"
 organizerDescription: "Laboratorio Estudiantil de Innovación Científica y Tecnológica de la Universidad de Guanajuato."
-organizerEmail: "r.mirontorres@ugto.mx"
+organizerEmail: "mxfuturelab@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "www.facebook.com/f.lab.mx"
+organizerLink: "https://futurelab.mx/"
 
 # Head
 metaKeywords: "event, mlh, devfest, hackathon, programming, guanajuato, hack, guanahacks, ugto, future lab, kaizen ug"
@@ -43,7 +43,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
- - {permalink: "/blog/", text: "Blog"}
+ #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/programa/", text: "Programa"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
