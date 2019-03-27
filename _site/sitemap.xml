@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/recomendaciones/</loc>
-<lastmod>2018-04-16T10:00:00+02:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/tematica/</loc>
 <lastmod>2018-04-16T10:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/softwareguru/</loc>
-<lastmod>2018-05-04T12:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/talentland/</loc>
-<lastmod>2018-05-15T10:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/ibm/</loc>
-<lastmod>2018-05-16T22:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/ganadores/</loc>
-<lastmod>2018-05-21T10:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/resumen/</loc>
-<lastmod>2018-09-21T10:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/</loc>
@@ -42,6 +18,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/registro/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tba/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/programa/</loc>

@@ -44,7 +44,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
  #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/programa/", text: "Programa"}
+ - {permalink: "/tba/", text: "Programa"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
@@ -157,11 +157,11 @@ footerBlocks:
    - {link: "mailto:mxfuturelab@gmail.com", text: "Future Lab"}
    - {link: "mailto:kaizen.ugto@gmail.com", text: "Kaizen UG"}
  -
-  title: "FAQ"
-  links:
-   - {link: "https://guanahacks.com/programa/", text: "Programa del evento"}
-   - {link: "https://guanahacks.com/conducta/", text: "Código de Conducta"}
-   - {link: "https://guanahacks.com/recomendaciones/", text: "Consideraciones y recomendaciones"}
+  # title: "FAQ"
+  # links:
+  #  - {link: "https://guanahacks.com/programa/", text: "Programa del evento"}
+  #  - {link: "https://guanahacks.com/conducta/", text: "Código de Conducta"}
+  #  - {link: "https://guanahacks.com/recomendaciones/", text: "Consideraciones y recomendaciones"}
 
 # Blog
 blogTitle: "Últimas noticias"
