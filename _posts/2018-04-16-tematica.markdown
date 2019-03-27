@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Temática: Seguridad"
-date:   2018-04-16 08:00:00
+title:  "Temática: por anunciar"
+date:   2019-04-16 08:00:00
 image:  pipila.png
 permalink: /tematica/
 isStaticPost: false
