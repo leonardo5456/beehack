@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://futurelab.mx/"
 
 # Head
-metaKeywords: "event, mlh, devfest, hackathon, programming, guanajuato, hack, guanahacks, ugto, future lab, kaizen ug"
+metaKeywords: "event, mlh, devfest, hackathon, programming, guanajuato, hack, BeeHack, ugto, future lab, kaizen ug"
 twitterAccount: "@FerroRodolfo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -49,24 +49,24 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
-  - {permalink: "/resumen", text: "Registro"}
+  - {permalink: "/registro", text: "Registro"}
 
 rightNavigationButtons:
-  - {permalink: "/resumen", text: "Registro"}
+  - {permalink: "/registro", text: "Registro"}
 
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GuanaHacks. Hecho para <typeout>"
-eventDate: "18-20 Mayo, 2018"
+heroTitle: "BeeHack. Hecho para <typeout>"
+eventDate: "16-18 Mayo, 2019"
 typeoutTextValues: '"", "creadores.", "hackers.", "líderes.", "ti."'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/resumen", text: "Resumen"}
+ - {permalink: "/registro", text: "Registro"}
 
 
 # About Block
-aboutTitle: "Acerca de GuanaHacks"
+aboutTitle: "Acerca de BeeHack"
 aboutBlock:
  - {title: "Conferencias", image: "conference.jpg", text: "Líderes de la industria local compartirán su experiencia. Las nuevas tecnologías y su utilización para soluciones ingeniosas." }
  - {title: "Talleres", image: "workshop.jpg", text: "Aprende a desarrollar tu idea, desde el prototipo a un modelo de negocios. Impartidos por expertos en el tema, de diseño, negocios y técnicos." }
@@ -94,19 +94,19 @@ rockstarSpeakersButtonText: "Ver todos los ponentes"
 
 # Location Block
 locationBlockTitle: "Ubicación"
-eventLocationName: "Aulas Magnas, Campus Guanajuato, Universidad de Guanajuato."
-eventLocationLink: "http://www.ugto.mx/campusgto/"
-eventStreetAddress: "El Establo, Marfil."
+eventLocationName: "Patio del Antiguo Hospicio Jesuita, Universidad de Guanajuato."
+eventLocationLink: "http://www.ugto.mx/"
+eventStreetAddress: "Lascuraín de Retana No. 5, Col. Centro"
 eventAddressLocality: "Guanajuato."
 eventAddressLocalityRegion: "Gto."
 eventPostalCode: "36000"
 eventAddressCountry: "México"
-eventStartTime: "2018-05-18T12:00"
+eventStartTime: "2019-05-16T12:00"
 eventDoorTime: "10:00"
-eventEndTime: "2018-05-20T14:00"
-eventPlaceCoordinates: "21.012597, -101.275503"
-mapCenterCoordinates: "21.012597, -101.275503"
-mapMobileCenterCoordinates: "21.012597, -101.275503"
+eventEndTime: "2019-05-18T14:00"
+eventPlaceCoordinates: "21.017421, -101.253566"
+mapCenterCoordinates: "21.017421, -101.253566"
+mapMobileCenterCoordinates: "21.017421, -101.253566"
 
 
 # Venue Block
@@ -122,7 +122,7 @@ mapMobileCenterCoordinates: "21.012597, -101.275503"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Wanna hack?"
-twitterHashTag: "GuanaHacks"
+twitterHashTag: "BeeHack"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 
@@ -139,7 +139,7 @@ partnersC4sponsorsButton: "Conviértete en sponsor"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/search?q=%23GuanaHacks", icon: "twitter"}
+ - {link: "https://twitter.com/search?q=%23BeeHack", icon: "twitter"}
  - {link: "https://facebook.com/f.lab.mx", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
@@ -147,14 +147,14 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://www.ugto.mx/", text: "Universidad de Guanajuato"}
-   - {link: "https://www.facebook.com/GuanaHacks/", text: "GuanaHacks"}
+   - {link: "https://www.facebook.com/BeeAHack/", text: "BeeHack"}
    - {link: "http://www.facebook.com/f.lab.mx/", text: "Future Lab"}
    - {link: "https://www.facebook.com/KaizenUG/", text: "Kaizen UG"}
  -
   title: "Contacto"
   links:
    - {link: "mailto:guanahacks@gmail.com", text: "GuanaHacks"}
-   - {link: "mailto:r.mirontorres@ugto.mx", text: "Future Lab"}
+   - {link: "mailto:mxfuturelab@gmail.com", text: "Future Lab"}
    - {link: "mailto:kaizen.ugto@gmail.com", text: "Kaizen UG"}
  -
   title: "FAQ"
@@ -173,11 +173,11 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Acerca de nosotros"
-aboutUs: "Entusiastas por el desarrollo de los jóvenes, el emprendimiento y la innovación, el quipo organizador de GuanaHacks 2018
+aboutUs: "Entusiastas por el desarrollo de los jóvenes, el emprendimiento y la innovación, el quipo organizador de BeeHack 2018
 se conforma por estudiantes de la Universidad de Guanajuato. Representado a 2 grupos organizados de la misma: Future Lab y Kaizen UG."
 
 # Hackathon
-hackathonTitle: "GuanaHacks"
+hackathonTitle: "BeeHack"
 enableHackathon: true
 
 # Hackathon About Block
@@ -203,18 +203,18 @@ prizes:
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Ubicación"
-hackathonLocationName: "GuanaHacks"
-hackathonLocationLink: "http://guanahacks.com"
-hackathonStreetAddress: "División de Ciencias Económico Administrativas"
+hackathonLocationName: "BeeHack"
+hackathonLocationLink: "http://futurelab.mx/beehack/"
+hackathonStreetAddress: "Edificio Central de la Universidad de Guanajuato"
 hackathonAddressLocality: "Guanajuato"
 hackathonAddressLocalityRegion: "Guanajuato"
 hackathonPostalCode: "36000"
 hackathonAddressCountry: "Mexico"
 hackathonTimeTitle: "Registro"
-hackathonStartTime: "2018-05-18T10:00"
+hackathonStartTime: "2019-05-16T10:00"
 hackathonDoorTime: "09:00"
-hackathonEndTime: "2018-05-20T13:30"
+hackathonEndTime: "2019-05-18T13:30"
 viewOnMap: "Ver en Google Maps"
-hackathonPlaceCoordinates: "21.012597, -101.275503"
-hackathonMapCenterCoordinates: "21.012597, -101.275503"
-hackathonMapMobileCenterCoordinates: "21.012597, -101.275503"
+hackathonPlaceCoordinates: "21.017421, -101.253566"
+hackathonMapCenterCoordinates: "21.017421, -101.253566"
+hackathonMapMobileCenterCoordinates: "21.017421, -101.253566"
