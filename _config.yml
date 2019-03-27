@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "BeeHack 2019"
 email: "mxfuturelab@gmail.com"
 description: "BeeHack - Hackatón estudiantil de la Universidad de Guanajuato."
-baseurl: "/beehack/"
+baseurl: "/beehack"
 url: "https://futurelab.mx/"
 permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
