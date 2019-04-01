@@ -7,7 +7,7 @@ safe: false
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
-
+include: ['.htaccess']
 
 # Site Settings
 title: "BeeHack 2019"
@@ -121,7 +121,7 @@ mapMobileCenterCoordinates: "21.017421, -101.253566"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "Wanna hack?"
+tweetsFeedTitle: "Be creative."
 twitterHashTag: "BeeHack"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
