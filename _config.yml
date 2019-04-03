@@ -49,10 +49,10 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
-  - {permalink: "/registro", text: "Registro"}
+  - {permalink: "https://www.eventbrite.com/e/beehack-tickets-59806232050", text: "Registro"}
 
 rightNavigationButtons:
-  - {permalink: "/registro", text: "Registro"}
+  - {permalink: "https://www.eventbrite.com/e/beehack-tickets-59806232050", text: "Registro"}
 
 
 # Hero Block
@@ -62,7 +62,7 @@ eventDate: "16-18 Mayo, 2019"
 typeoutTextValues: '"", "creadores.", "hackers.", "líderes.", "ti."'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/registro", text: "Registro"}
+ - {permalink: "https://www.eventbrite.com/e/beehack-tickets-59806232050", text: "Registro"}
 
 
 # About Block
