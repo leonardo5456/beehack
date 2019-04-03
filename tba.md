@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Programa BeeHack 2019
+title: BeeHack 2019
 permalink: /tba/
 image: edificio-central.png
 isStaticPost: true
 ---
 
 ##### Programa del hackathon:
-El programa aún es público, espera más noticias protno.
+El programa aún no es público, espera más noticias pronto.
