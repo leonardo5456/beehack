@@ -7,8 +7,9 @@ isStaticPost: true
 ---
 
 ##### Registro para participantes:
-Si quieres participar en el Hackathon y concursar con un proyecto, te recomendamos llenar el pre-registro. Nosotros te haremos saber en caso de ser o no seleccionado ya que tenemos espacio limitado.
-\*En caso de ser seleccionado te mandaremos tu entrada la cuál incluye camping y alimentos.
+BeeHack es un evento estudiantil completamente gratuito. Si quieres participar en el Hackathon y concursar con un proyecto, te recomendamos sacar tu entrada con anticipación, ya que tenemos espacio limitado.
+
+\*La entrada incluye acceso al área de camping y alimentos.
 
 <div id="eventbrite-widget-container-59806232050"></div>
 
