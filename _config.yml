@@ -62,7 +62,7 @@ eventDate: "17-19 Mayo, 2019"
 typeoutTextValues: '"", "creadores.", "hackers.", "líderes.", "ti."'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "https://www.eventbrite.com/e/beehack-tickets-59806232050", text: "Registro"}
+ - {permalink: "/registro", text: "Registro"}
 
 
 # About Block
