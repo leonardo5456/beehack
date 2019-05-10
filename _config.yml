@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "fondo-principal.jpg"
 heroTitle: "BeeHack. Hecho para <typeout>"
 eventDate: "17-19 Mayo, 2019"
 typeoutTextValues: '"", "creadores.", "hackers.", "líderes.", "ti."'

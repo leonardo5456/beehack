@@ -2,7 +2,7 @@
 layout: post
 title: BeeHack 2019
 permalink: /tba/
-image: edificio-central.png
+image: 1.jpg
 isStaticPost: true
 ---
 

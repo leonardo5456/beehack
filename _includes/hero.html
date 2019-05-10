@@ -19,10 +19,10 @@ div.transbox p {
     {% include navigation.html %}
     <div class="content-wrapper">
     <div class="jumbotron">
-        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            <img src="{{ site.baseurl }}/img/sprites/logo-white.png" width="20%" alt="{{ about.title }}">
+        <div class="animated hiding" data-animation="fadeInDown" data-delay="500" style="color:black;">
+            <img src="{{ site.baseurl }}/img/sprites/logo.png" width="18%" alt="{{ about.title }}" style="margin-top:20px">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+            <h4>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h4>
             <div class="transbox">
               <p>{{ site.eventDate }}</p>
             </div>

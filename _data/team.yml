@@ -2,48 +2,52 @@
   id: 0
   name: "Ricardo"
   surname: "Mirón"
-  title: "Director - Future Lab"
+  title: "Co-fundador - Future Lab 🚀"
   thumbnailUrl: RicardoMiron2.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "FL", title: "Future Lab"}
   social:
     - {name: "twitter", link: "https://twitter.com/richard016"}
     - {name: "github", link: "https://github.com/ricardomiron"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/ricardomiron/"}
+    - {name: "facebook", link: "www.facebook.com/f.lab.mx"}
 -
   id: 1
   name: "Rodolfo"
   surname: "Ferro"
-  title: "Coord. de Tecnología - Future Lab"
+  title: "Co-fundador - Future Lab 🚀"
   thumbnailUrl: RodolfoFerro.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "FL", title: "Future Lab"}
   social:
     - {name: "twitter", link: "https://twitter.com/FerroRodolfo"}
     - {name: "github", link: "https://github.com/RodolfoFerro"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/rodolfoferro/"}
+    - {name: "facebook", link: "www.facebook.com/f.lab.mx"}
 -
   id: 2
   name: "Eduardo"
   surname: "Padrón"
-  title: "Coord Gral - Future Lab"
+  title: "Coordinador - Future Lab 🚀"
   thumbnailUrl: EduardoPadron.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: " "}
+    - {abbr: "FL", title: "Future Lab"}
   social:
     - {name: "facebook", link: "www.facebook.com/f.lab.mx"}
 -
   id: 3
   name: "Francisco"
   surname: "López"
-  title: "Coord. de Web - Future Lab"
-  thumbnailUrl: MiguelTorres.jpg
+  title: "Co-fundador - Future Lab 🚀"
+  thumbnailUrl: FranciscoLopez.jpg
   team: true
+  ribbon:
+    - {abbr: "FL", title: "Future Lab"}
   social:
-    - {name: "site", link: "#"}
+    - {name: "facebook", link: "www.facebook.com/f.lab.mx"}
 
 -
   id: 4
@@ -58,7 +62,7 @@
   id: 6
   name: "Evandro"
   surname: "Patrón"
-  title: "Coord. de Difusión "
+  title: "Coord. de Difusión"
   thumbnailUrl: EvandroPatron.jpg
   team: true
   social:
