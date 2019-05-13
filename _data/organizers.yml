@@ -10,3 +10,4 @@
   group: "Aliados"
   elements:
     - {name: "GitHub Education", description: "GitHub Education - teach and learn better, together", link: "https://education.github.com/", imageUrl: "github.png", width: "160px"}
+    - {name: "Rush Tecnologías", description: "Rush Tecnologías", link: "https://www.rushtecnologias.com/", imageUrl: "rush.png", width: "160px"}
