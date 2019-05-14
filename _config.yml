@@ -43,16 +43,16 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
- #- {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/tba/", text: "Programa"}
- - {permalink: "/speakers/", text: "Ponentes"}
+ # - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
-  - {permalink: "/registro", text: "Registro"}
+  # - {permalink: "/registro", text: "Registro"}
 
 rightNavigationButtons:
-  - {permalink: "/registro", text: "Registro"}
+  # - {permalink: "/registro", text: "Registro"}
 
 
 # Hero Block
@@ -62,7 +62,7 @@ eventDate: "17-19 Mayo, 2019"
 typeoutTextValues: '"", "creadores.", "hackers.", "líderes.", "ti."'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/registro", text: "Registro"}
+ # - {permalink: "/registro", text: "Registro"}
 
 
 # About Block
