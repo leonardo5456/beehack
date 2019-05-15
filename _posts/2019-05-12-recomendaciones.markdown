@@ -11,15 +11,14 @@ Para que tu experiencia en BeeHack sea la mejor, te compartimos una serie de rec
 
 ##### Registro:
 
-1. Ten muy en cuenta los horarios de registro a participantes; deberás dirigirte a la zona de registro (*“Registro participantes”*) y mostrar una identificación, así como tu ticket de asistencia generado por *Eventbrite®* (no es necesario imprimirlo, lo puedes llevar en tu celular). Con ello podrás recibir tus acreditaciones (kit de bienvenida, gafetes y asignación de espacio para casa de campaña).
+1. Deberás atender las indicaciones que incluimos en tu correo de aceptación para crear tu usuario en la plataforma The Hacking Labs, aliado estratégico de BeeHack (https://thehackinglabs.com/beehack/invite/participants/tukpm4btYKmqMoqfpHjLSGucp).
 
-2. Si no tienes equipo o te gustaría completarlo con integrantes de cierto perfil, tras el evento de inauguración tendrás oportunidad de acercarte a los organizadores para vocear gente. Los equipos deberán estar integrados para la tarde del sábado, pues habrá un registro oficial de equipos con proyecto.
 
 ##### Camping y espacios:
 
 1. BeeHack proporcionará un espacio para que pongas tu casa de campaña y alimentos a todo participante debidamente registrado. A tu llegada, durante el registro te será asignado tu camping compartido y el staff te guiará hasta él.
 
-2. La(s) casa(s) de campaña deberás de traerla(s) por tu cuenta y considerar que no ocupe más espacio del necesario para tu equipo.
+2. La(s) casa(s) de campaña deberás de traerla(s) por tu cuenta y considerar que no ocupe más espacio del necesario para tu equipo. (Excepto si solicitaste préstamo de casa de campaña en tu pre-registro.)
 
 3. Sugerimos traer un candado, una bolsa de dormir (sleeping bag), una chamarra, una toalla y sus artículos de aseo personal (contaremos con servicio de regaderas).
 
@@ -37,7 +36,7 @@ Para que tu experiencia en BeeHack sea la mejor, te compartimos una serie de rec
 
 1. Si deseas tomar alguno de los talleres, deberás registrarte en la mesa correspondiente que estará en la zona de registro durante los periodos señalados por el equipo organizador. Los talleres cuentan con cupo limitado y estarán sujetos a disponibilidad.
 
-2. Para acceder a una sesión de mentoría, deberás solicitar tu ficha en la mesa correspondiente en la zona de registro. Las mismas condiciones del punto anterior aplican a éste.
+2. Las sesiones de mentoría serán continuas, el primer día conocerás a todos los mentores y podrás abordarlos durante el evento para resolver cualquier duda que tengas.
 
 3. Las charlas y conferencias estarán abiertas a todos los participantes; y estarán sujetas al cupo de asistentes en los espacios de dichos eventos.
 
@@ -51,8 +50,6 @@ Para que tu experiencia en BeeHack sea la mejor, te compartimos una serie de rec
 
 3. BeeHack, sus organizadores, colaboradores, equipo de staff y la Universidad de Guanajuato no se hacen responsables por pérdida, robo, extravío o daños a tus pertenencias, causados por descuido del participante.
 
-4. Contaremos con estacionamiento externo.
+4. Por tu seguridad, las puertas de acceso a las instalaciones serán cerradas a las 23:00 horas del viernes 17 y sábado 18, abriendo a las 6:00 horas del día siguiente.
 
-5. Por tu seguridad, durante el evento no se permitirá la salida del venue a partir de las 9:00 p.m. (viernes y sábado). Las salidas se reanudan a las 8:00 a.m. (sábado y domingo).
-
-6. Las constancias de participación se enviarán por correo electrónico a cada participante tras finalizar el evento.
+5. Las constancias de participación se enviarán por correo electrónico a cada participante tras finalizar el evento.
