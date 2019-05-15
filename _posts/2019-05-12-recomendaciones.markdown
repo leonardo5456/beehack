@@ -11,7 +11,7 @@ Para que tu experiencia en BeeHack sea la mejor, te compartimos una serie de rec
 
 ##### Registro:
 
-1. Deberás atender las indicaciones que incluimos en tu correo de aceptación para crear tu usuario en la plataforma The Hacking Labs, aliado estratégico de BeeHack (https://thehackinglabs.com/beehack/invite/participants/tukpm4btYKmqMoqfpHjLSGucp).
+1. Deberás atender las indicaciones que incluimos en tu correo de aceptación para crear tu usuario en la plataforma The Hacking Labs, aliado estratégico de BeeHack ([https://thehackinglabs.com/beehack/invite/participants/tukpm4btYKmqMoqfpHjLSGucp](https://thehackinglabs.com/beehack/invite/participants/tukpm4btYKmqMoqfpHjLSGucp)).
 
 
 ##### Camping y espacios:
