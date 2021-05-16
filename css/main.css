@@ -2370,17 +2370,9 @@ time{
     padding:0
 }
 .logo{
-    background-image:url("../img/sprites/logos.svg"); /* creo que este es el logo que no puedo cambiar :v */
+    background-image:url("/img/sprites/logo_beehack_horizontal_negro.png"); /* creo que este es el logo que no puedo cambiar :v */
+    background-size: 100%;
     background-repeat:no-repeat
-}
-.logo.logo-dark{
-    background-position:0 -1px
-}
-.logo.logo-gray{
-    background-position:0 -63px
-}
-.logo.logo-light{
-    background-position:0 -127px
 }
 .icon{
     display:inline-block;
