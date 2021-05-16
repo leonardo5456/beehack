@@ -2370,7 +2370,7 @@ time{
     padding:0
 }
 .logo{
-    background-image:url("../img/sprites/logos.svg");
+    background-image:url("../img/sprites/logos.svg"); /* creo que este es el logo que no puedo cambiar :v */
     background-repeat:no-repeat
 }
 .logo.logo-dark{
