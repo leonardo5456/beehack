@@ -82,8 +82,9 @@
                             <div class="jumbotron"> 
                                 <div class="animated hiding" data-animation="fadeInDown" data-delay="500" style="color:black;"> 
                                     <img src="/img/sprites/Logo_beehack_glitch.png" width="18%" alt="" style="margin-top:20px"> 
-                                    <h4>Hecho para <span id="typeout-text" class=""></span><br><br>
-                                    <span class="typeout-fallback"></span></h4> 
+                                    <h4>Hecho para 
+                                        <span id="typeout-text" class=""></span><br><br>
+                                        <span class="typeout-fallback"></span></h4> 
                                     <!--
                                     <div class="transbox"> 
                                          
@@ -439,7 +440,85 @@
 
 
 
-                                <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', '', ''); ga('send', 'pageview'); </script> <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> <script> window.jQuery || document.write('<script src="/js/jquery-2.1.1.min.js><\/script>') </script> <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script> <script> if (typeof($.fn.modal) === 'undefined') { document.write('<script src="/js/bootstrap.min.js><\/script>') } </script> <script src="/js/default.js"></script> <script> if ($(window).width() > 767) { document.write('<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCpHskh5Sxh5Ku48bFzj456T3fyVw71z94&v=3.exp&sensor=false"><\/script>') } </script> <script> Waves.displayEffect(); if ($(window).width() > 767) { var googleMaps = 'index', eventPlace = new google.maps.LatLng(21.017421,-101.253566), centerMap = new google.maps.LatLng(21.017421,-101.253566), mobileCenterMap = new google.maps.LatLng(21.017421,-101.253566), icon = '/img/other/map-marker.svg'; } else { var staticGoogleMaps = true, eventPlaceCoordinates = '21.017421,-101.253566', centerMapCoordinates = '21.017421,-101.253566', mobileCenterMapCoordinates = '21.017421,-101.253566', icon = 'http://localhost:4000/img/other/map-marker.png'; } var twitterFeedUrl = 'http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000'; $(document).ready(function () { $(function () { if ($(window).width() > 767) { $("#typeout-text").typed({ strings: ["", "creadores.", "hackers.", "líderes.", "ti."], typeSpeed: 150, backDelay: 900, loop: true }); } }); var rockstarSpeakers = [ ]; rockstarSpeakers.sort(function() {return 0.5 - Math.random()}); if(rockstarSpeakers.length > 0) { var animationDelay = 1500, count = Math.min(4, rockstarSpeakers.length), colWidth = 12/count; for(i=0; i<count; i++) { var clearfix = '<div class="clearfix visible-xs"></div>'; if ((i)%2 != 0) { clearfix = "" } $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>' + clearfix); animationDelay -= 500; } } }); </script> <script src="/js/scripts.min.js"></script> <script type="application/ld+json"> [{ "@context" : "http://schema.org", "@type" : "Event", "name" : "BeeHack 2019", "description": "BeeHack - Hackatón estudiantil de la Universidad de Guanajuato.", "image" : "http://localhost:4000/img/seo/sharing-google-plus.png", "url" : "http://localhost:4000", "startDate" : "2019-05-17T12:00", "doorTime" : "10:00", "endDate" : "2019-05-19T14:00", "location" : { "@type" : "Place", "name" : "Patio del Antiguo Hospicio Jesuita, Universidad de Guanajuato.", "sameAs" : "http://www.ugto.mx/", "address" : { "@type" : "PostalAddress", "streetAddress" : "Lascuraín de Retana No. 5, Col. Centro", "addressLocality" : "Guanajuato.", "addressRegion" : "Gto.", "postalCode" : "36000", "addressCountry" : "México" }, "geo" : { "@type" : "GeoCoordinates", "latitude" : "21.017421", "longitude" : " -101.253566" } }, // Not supported yet // "organizer" : { // "@type" : "Organization", // "name" : "Future Lab", // "alternateName" : "Future Lab", // "description" : "Laboratorio Estudiantil de Innovación Científica y Tecnológica de la Universidad de Guanajuato.", // "logo" : "http://localhost:4000/img/seo/organizer-logo.png", // "email" : "mxfuturelab@gmail.com", // "sameAs" : "https://futurelab.mx/" // }, "subEvent" : { "@type" : "Event", "name" : "BeeHack", "description": " Seguridad Pública 👮 Seguridad Ante desastres 🌪 Seguridad Estudiantil 👨 Seguridad Turística 🏖 Seguridad del Hogar 🏠", "image" : "http://localhost:4000/img/seo/sharing-google-plus.png", "url" : "http://localhost:4000/hackathon/", "startDate" : "2019-05-17T10:00", "doorTime" : "09:00", "endDate" : "2019-05-19T13:30", "location" : { "@type" : "Place", "name" : "BeeHack", "sameAs" : "http://futurelab.mx/beehack/", "address" : { "@type" : "PostalAddress", "streetAddress" : "Edificio Central de la Universidad de Guanajuato", "addressLocality" : "Guanajuato", "addressRegion" : "Guanajuato", "postalCode" : "36000", "addressCountry" : "Mexico" }, "geo" : { "@type" : "GeoCoordinates", "latitude" : "21.017421", "longitude" : " -101.253566" } } }, "offers" : [ ], "performer" : [ ], "eventStatus" : "EventScheduled", "typicalAgeRange" : "16+" }] 
+                                <script>
+                                (function(i,s,o,g,r,a,m){
+                                    i['GoogleAnalyticsObject']=r;
+
+                                    i[r]=i[r]||function(){
+                                         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+                                         a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+                                         
+                                         a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+                                        })
+                                        (window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                                        ga('create', '', ''); ga('send', 'pageview');
+                                </script> 
+                                
+                                <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+                                
+                                <script> window.jQuery || document.write('<script src="/js/jquery-2.1.1.min.js><\/script>') </script> 
+                                
+                                <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script> 
+                                
+                                <script> 
+                                    if (typeof($.fn.modal) === 'undefined') {
+                                        document.write('<script src="/js/bootstrap.min.js><\/script>')
+                                    } 
+                                    
+                                </script> 
+                                
+                                <script src="/js/default.js"></script>
+                                
+                                <script> 
+                                    if ($(window).width() > 767) {
+                                        document.write('<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCpHskh5Sxh5Ku48bFzj456T3fyVw71z94&v=3.exp&sensor=false"><\/script>')
+                                    } 
+                                    
+                                </script>
+                                
+                                <script> Waves.displayEffect();
+                                
+                                    if ($(window).width() > 767) {
+                                        var googleMaps = 'index', eventPlace = new google.maps.LatLng(21.017421,-101.253566), centerMap = new google.maps.LatLng(21.017421,-101.253566), mobileCenterMap = new google.maps.LatLng(21.017421,-101.253566), icon = '/img/other/map-marker.svg'; 
+                                    } else { 
+                                        var staticGoogleMaps = true,
+                                         eventPlaceCoordinates = '21.017421,-101.253566',
+                                          centerMapCoordinates = '21.017421,-101.253566',
+                                           mobileCenterMapCoordinates = '21.017421,-101.253566',
+                                            icon = 'http://localhost:4000/img/other/map-marker.png'; 
+                                    } 
+                                    
+                                    var twitterFeedUrl = 'http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000';
+                                    
+                                    $(document).ready(function () { 
+                                        $(function () { 
+                                            if ($(window).width() > 100) {
+                                                $("#typeout-text").typed({ strings: ["", "creadores.", "hackers.", "líderes.", "ti."],
+                                                typeSpeed: 150,
+                                                backDelay: 900,
+                                                loop: true });
+                                        } }); 
+                                    
+                                    var rockstarSpeakers = [ ];
+                                    
+                                    rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
+                                    
+                                    if(rockstarSpeakers.length > 0) { 
+                                        var animationDelay = 1500,count = Math.min(4, rockstarSpeakers.length),colWidth = 12/count;
+                                        for(i=0; i<count; i++) { 
+                                            var clearfix = '<div class="clearfix visible-xs"></div>'; 
+                                            if ((i)%2 != 0) {
+                                                clearfix = ""
+                                            }
+                                            
+                                            $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>' + clearfix); animationDelay -= 500; } } });
+                                            
+                                </script>
+                                            
+                                <script src="/js/scripts.min.js"></script>
+                                            
+                                <script type="application/ld+json"> 
+                                    [{ "@context" : "http://schema.org", "@type" : "Event", "name" : "BeeHack 20", "description": "BeeHack - Hackatón estudiantil de la Universidad de Guanajuato.", "image" : "http://localhost:4000/img/seo/sharing-google-plus.png", "url" : "http://localhost:4000", "startDate" : "2019-05-17T12:00", "doorTime" : "10:00", "endDate" : "2019-05-19T14:00", "location" : { "@type" : "Place", "name" : "Patio del Antiguo Hospicio Jesuita, Universidad de Guanajuato.", "sameAs" : "http://www.ugto.mx/", "address" : { "@type" : "PostalAddress", "streetAddress" : "Lascuraín de Retana No. 5, Col. Centro", "addressLocality" : "Guanajuato.", "addressRegion" : "Gto.", "postalCode" : "36000", "addressCountry" : "México" }, "geo" : { "@type" : "GeoCoordinates", "latitude" : "21.017421", "longitude" : " -101.253566" } }, // Not supported yet // "organizer" : { // "@type" : "Organization", // "name" : "Future Lab", // "alternateName" : "Future Lab", // "description" : "Laboratorio Estudiantil de Innovación Científica y Tecnológica de la Universidad de Guanajuato.", // "logo" : "http://localhost:4000/img/seo/organizer-logo.png", // "email" : "mxfuturelab@gmail.com", // "sameAs" : "https://futurelab.mx/" // }, "subEvent" : { "@type" : "Event", "name" : "BeeHack", "description": " Seguridad Pública 👮 Seguridad Ante desastres 🌪 Seguridad Estudiantil 👨 Seguridad Turística 🏖 Seguridad del Hogar 🏠", "image" : "http://localhost:4000/img/seo/sharing-google-plus.png", "url" : "http://localhost:4000/hackathon/", "startDate" : "2019-05-17T10:00", "doorTime" : "09:00", "endDate" : "2019-05-19T13:30", "location" : { "@type" : "Place", "name" : "BeeHack", "sameAs" : "http://futurelab.mx/beehack/", "address" : { "@type" : "PostalAddress", "streetAddress" : "Edificio Central de la Universidad de Guanajuato", "addressLocality" : "Guanajuato", "addressRegion" : "Guanajuato", "postalCode" : "36000", "addressCountry" : "Mexico" }, "geo" : { "@type" : "GeoCoordinates", "latitude" : "21.017421", "longitude" : " -101.253566" } } }, "offers" : [ ], "performer" : [ ], "eventStatus" : "EventScheduled", "typicalAgeRange" : "16+" }] 
                                 </script> 
                     </body> 
 </html>
