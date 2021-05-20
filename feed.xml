@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BeeHack 2019</title>
+    <description>BeeHack - Hackatón estudiantil de la Universidad de Guanajuato.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Recursos materiales</title>
+        <description>&lt;p&gt;A continuación te compartimos una serie de recursos tecnológicos que pueden ser de gran ayuda para el desarrollo de tu proyecto. 😎&lt;/p&gt;
+
+&lt;h6 id=&quot;servicios-de-mensajería&quot;&gt;Servicios de mensajería:&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twilio.com/docs/sms/quickstart/python&quot;&gt;Twilio SMS Python Quickstart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twilio.com/docs/sms/quickstart/node&quot;&gt;Programmable SMS Quickstart for Node.js by Twilio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twilio.com/docs/sms/quickstart/ruby&quot;&gt;Twilio SMS Ruby Quickstart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twilio.com/docs/voice/quickstart/python&quot;&gt;Programmable Voice Quickstart for Python by Twilio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twilio.com/docs/voice/quickstart/node&quot;&gt;Programmable Voice Quickstart for Node.js by Twilio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twilio.com/docs/voice/quickstart/ruby&quot;&gt;Programmable Voice Quickstart for Ruby by Twilio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twilio.com/blog/2017/12/facebook-messenger-bot-python.html&quot;&gt;Building Facebook Messenger Bots with Python in less than 60 minutes by Twilio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&quot;starters-de-plataforma&quot;&gt;Starters de plataforma:&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/MLH/mlh-hackathon-flask-starter&quot;&gt;Flask Python Starter Kit by MLH&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/MLH/mlh-hackathon-nodejs-starter&quot;&gt;Node.js JavaScript Starter Kit by MLH&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/realpython/flask-boilerplate&quot;&gt;Flask Boilerplate template by RealPython&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/heroku/node-js-sample&quot;&gt;Node.js Sample Web App by Heroku&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&quot;cursos-y-tutoriales&quot;&gt;Cursos y tutoriales:&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codigofacilito.com/cursos/django&quot;&gt;Curso gratuito de Django by Código Facilito&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codigofacilito.com/cursos/flask&quot;&gt;Curso gratuito de Flask by Código Facilito&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codigofacilito.com/cursos/Pagina-HTML5&quot;&gt;Curso para crear un sitio web en HTML5 by Código Facilito&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codigofacilito.com/cursos/HTML5&quot;&gt;Curso de Introducción a HTML5 by Código Facilito&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codigofacilito.com/cursos/swift-introduccion&quot;&gt;Curso de Introducción a Swift by Código Facilito&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codigofacilito.com/cursos/crear-app-ios&quot;&gt;Crea tu primera app de iOs by Código Facilito&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codigofacilito.com/cursos/react-intro-gratis&quot;&gt;Curso de Fundamentos de React by Código Facilito&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codigofacilito.com/cursos/mongodb&quot;&gt;Curso de MongoDB by Código Facilito&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 14 May 2019 03:00:00 -0500</pubDate>
+        <link>http://localhost:4000/recursos/</link>
+        <guid isPermaLink="true">http://localhost:4000/recursos/</guid>
+      </item>
+    
+      <item>
+        <title>Consideraciones y recomendaciones</title>
+        <description>&lt;p&gt;Para que tu experiencia en BeeHack sea la mejor, te compartimos una serie de recomendaciones y consideraciones. 😎&lt;/p&gt;
+
+&lt;h5 id=&quot;registro&quot;&gt;Registro:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Deberás atender las indicaciones que incluimos en tu correo de aceptación para crear tu usuario en la plataforma The Hacking Labs, aliado estratégico de BeeHack (&lt;a href=&quot;https://thehackinglabs.com/beehack/invite/participants/tukpm4btYKmqMoqfpHjLSGucp&quot;&gt;https://thehackinglabs.com/beehack/invite/participants/tukpm4btYKmqMoqfpHjLSGucp&lt;/a&gt;).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;camping-y-espacios&quot;&gt;Camping y espacios:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;BeeHack proporcionará un espacio para que pongas tu casa de campaña y alimentos a todo participante debidamente registrado. A tu llegada, durante el registro te será asignado tu camping compartido y el staff te guiará hasta él.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La(s) casa(s) de campaña deberás de traerla(s) por tu cuenta y considerar que no ocupe más espacio del necesario para tu equipo. (Excepto si solicitaste préstamo de casa de campaña en tu pre-registro.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sugerimos traer un candado, una bolsa de dormir (sleeping bag), una chamarra, una toalla y sus artículos de aseo personal (contaremos con servicio de regaderas).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Habrá zonas de trabajo, recreación, camping, regaderas y alimentación. Toda información y detalla te será entregada durante el registro.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;hackatón&quot;&gt;Hackatón:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cada equipo debe traer sus computadoras, periféricos y otros requerimientos para desarrollar su proyecto.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;En la zona de trabajo se contará con una red especial para los asistentes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Es importante que estés consciente que como tú, habrá varios equipos trabajando en la misma red, por lo que está prohibido cualquier manipulación a la red que no sea realizada por el equipo organizador de BeeHack.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;contenidos-y-actividades&quot;&gt;Contenidos y actividades:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Si deseas tomar alguno de los talleres, deberás registrarte en la mesa correspondiente que estará en la zona de registro durante los periodos señalados por el equipo organizador. Los talleres cuentan con cupo limitado y estarán sujetos a disponibilidad.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Las sesiones de mentoría serán continuas, el primer día conocerás a todos los mentores y podrás abordarlos durante el evento para resolver cualquier duda que tengas.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Las charlas y conferencias estarán abiertas a todos los participantes; y estarán sujetas al cupo de asistentes en los espacios de dichos eventos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Durante el evento habrá diferentes actividades de integración y recreación, el equipo organizador estará anunciando las actividades durante la realización del evento.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;generales&quot;&gt;Generales:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;El traslado al venue del evento, así como el regreso corre a cargo de cada participante, visitante o equipo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;BeeHack no cuenta con áreas de resguardo, por lo que cada participante es responsable de sus pertenencias (puedes guardarlas en la casa de campaña asignada y colocarle un candado).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;BeeHack, sus organizadores, colaboradores, equipo de staff y la Universidad de Guanajuato no se hacen responsables por pérdida, robo, extravío o daños a tus pertenencias, causados por descuido del participante.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Por tu seguridad, las puertas de acceso a las instalaciones serán cerradas a las 23:00 horas del viernes 17 y sábado 18, abriendo a las 6:00 horas del día siguiente.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Las constancias de participación se enviarán por correo electrónico a cada participante tras finalizar el evento.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 12 May 2019 03:00:00 -0500</pubDate>
+        <link>http://localhost:4000/recomendaciones/</link>
+        <guid isPermaLink="true">http://localhost:4000/recomendaciones/</guid>
+      </item>
+    
+  </channel>
+</rss>
